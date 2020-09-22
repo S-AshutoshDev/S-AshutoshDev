@@ -9,5 +9,6 @@
 <!---
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31h3qxb347auzqvmoorjke24cgum)
---->
+[<img src="https://github-spotify-live.vercel.app/api/spotify-playing" alt="Ashutosh Kumar Spotify Playing" width="350" />]
+
+(https://open.spotify.com/user/31h3qxb347auzqvmoorjke24cgum) --->
