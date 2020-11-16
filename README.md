@@ -7,6 +7,8 @@
 - 😄 Pronouns: Ashu
 - ⚡ Fun fact: I know more scripts then languages.
 
+## My typing stats:
+https://www.keybr.com/profile/e316hty
 <!---
 ### Spotify Playing 🎧
 
