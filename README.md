@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on different projects
-- 🌱 I’m currently learning Typescript and Tailwind CSS
-- 🤔 I’m looking for help with NextJS, Gatsby and Typescript
+- 🌱 I’m currently learning NextJS, Typescript and Material-UI
+- 🤔 I’m looking for help with NextJS and Typescript
 - 💬 Ask me about Web development
-- 😄 Pronouns: Ashu
 
 ![overview](https://github.com/typedashutosh/github-readme-stats/blob/master/generated/overview.svg)
 
