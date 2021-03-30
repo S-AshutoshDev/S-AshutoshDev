@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on different projects
 - 🌱 I’m currently learning NextJS, Typescript and Material-UI
-- 🤔 I’m looking for help with NextJS and Typescript
+- 🤔 I’m looking for help with Nextauth
 - 💬 Ask me about Web development
 
 ![overview](https://github.com/typedashutosh/github-readme-stats/blob/master/generated/overview.svg)
