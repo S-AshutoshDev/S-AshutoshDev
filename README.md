@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on different projects
-- 🌱 I’m currently learning NextJS, Typescript and Material-UI
+- 🌱 I’m currently learning Next.JS, Typescript and Material-UI
 - 🤔 I’m looking for help with Nextauth
 - 💬 Ask me about Web development
 
